@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cut -c 2-7
+cut -c 1-4
